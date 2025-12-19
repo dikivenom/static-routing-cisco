@@ -12,7 +12,8 @@ The network is divided into several logical areas:
 ---
 
 ## Network Topology Design
-.
+![Campus Network Topology](topology/campus-network-topology.png)
+
 
 ### Network Segments:
 - **Computer Lab** → 192.168.1.0/24  
