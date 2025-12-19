@@ -1,4 +1,5 @@
-# Cisco Static Routing Campus Network
+# Cisco Static Routing – Campus & Small Office Network
+
 
 ## Project Description
 This project is a simulation of **static routing implementation in a multi-subnet campus network** using **Cisco Packet Tracer**.  
