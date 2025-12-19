@@ -1,6 +1,6 @@
-# Static Routing Campus Network
+# Cisco Static Routing Campus Network
 
-## 📌 Project Description
+## Project Description
 This project is a simulation of **static routing implementation in a multi-subnet campus network** using **Cisco Packet Tracer**.  
 The main purpose of this project is to understand static routing concepts, network segmentation, and inter-subnet communication in a campus environment.
 
@@ -11,8 +11,8 @@ The network is divided into several logical areas:
 
 ---
 
-## 🏫 Network Topology
-The network topology uses a **router-to-router architecture** with **static routing** to enable communication between different subnets.
+## Network Topology Design
+.
 
 ### Network Segments:
 - **Computer Lab** → 192.168.1.0/24  
@@ -24,7 +24,7 @@ This topology represents a simple but realistic campus network design.
 
 ---
 
-## 🌐 IP Addressing Scheme
+## IP Addressing Scheme
 ### Router R1
 | Interface | IP Address | Subnet Mask |
 |---------|-----------|-------------|
